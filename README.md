@@ -284,8 +284,32 @@ change 메서드: 이 메서드는 주어진 텍스트에서 대소문자를 무
 
 <details>
 <summary>테스트 및 결과보기(click)</summary>
+
+ #### 📌회원가입
+ ![image](https://github.com/beyond-sw-camp/be03-4th-6team-som-DevOps/assets/148752498/badc9028-2a83-491d-82c3-e6bdf31261d7)
+---
+ #### 📌로그인
+ ![image](https://github.com/beyond-sw-camp/be03-4th-6team-som-DevOps/assets/148752498/12e716c8-36fe-4ef8-aa28-8fe1a54cf3f2)
+---
+ #### 📌관리자 회원관리
+ ![image](https://github.com/beyond-sw-camp/be03-4th-6team-som-DevOps/assets/148752498/a1d70fb4-80ce-41dc-8fe1-fd7d878f7802)
+---
+ #### 📌관리자 게시글관리
+ ![image](https://github.com/beyond-sw-camp/be03-4th-6team-som-DevOps/assets/148752498/7d8ec360-8ac2-4a3a-b484-08749d066ee5)
+---
+ #### 📌게시글 목록
+ ![image](https://github.com/beyond-sw-camp/be03-4th-6team-som-DevOps/assets/148752498/04ea3a5e-7fbe-426b-bc1d-617c36084d06)
+---
+ #### 📌게시글 내용
+ ![image](https://github.com/beyond-sw-camp/be03-4th-6team-som-DevOps/assets/148752498/052fed4b-aad7-4560-b183-2ec9749d05ad)
+---
+ #### 📌사용자 및 게시글 랭킹
+ ![image](https://github.com/beyond-sw-camp/be03-4th-6team-som-DevOps/assets/148752498/1af91ba3-bf7e-4d22-8675-0f31cfd36f91)
+---
 </details>
 
+<div align="center">
+ 
 ![footer](https://capsule-render.vercel.app/api?type=shark&height=200&text=Thank%20you&section=footer&reversal=true&fontColor=FFFFFF&fontAlign=83&fontAlignY=89&fontSize=38)
 
 
